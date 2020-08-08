@@ -14,3 +14,7 @@ func main()  {
 	//node1.InOrder()
 	node1.PostOrder()
 }
+
+func add(a int, b int, arg ...int) int {    //2个或多个参数
+	return 0
+}
